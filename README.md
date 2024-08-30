@@ -86,16 +86,6 @@ The SSM API enables businesses to track the security posture of their suppliers,
 
 Each API can be run independently or as part of the suite. Refer to the individual project directories for specific usage instructions and examples.
 
-## Contributing
-
-We welcome contributions to improve these APIs. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Create a new Pull Request
 
 ## License
 
